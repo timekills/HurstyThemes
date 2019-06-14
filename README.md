@@ -22,7 +22,7 @@ Exit out of Emulation Station by pressing F4 (or remote into the Pi using someth
 
 Type the following commands and press enter after each line to execute it:
 
-***wget https://raw.githubusercontent.com/RetroHursty69/HurstyThemes/master/install.sh***
+***wget https://raw.githubusercontent.com/timekills/HurstyThemes/master/install.sh***
 
 ***chmod +x "install.sh"***
 
